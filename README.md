@@ -1,4 +1,5 @@
-# Sistemas-de-Recomenda-o
+# Sistemas-de-Recomendação
+
 Para todos os negócios ligados a comércio eletrônico, é provável que os sistemas de recomendação sejam a ferramenta analítica mais importante já implementada. Embora não existam estimativas oficiais, muitas fontes estimam que, para as principais plataformas de comércio eletrônico, como a Amazon e a Netflix, os sistemas de recomendação podem ser responsáveis por até 10% a 35% da receita destas empresas. Esses são números consideráveis. Em um mundo com baixo crescimento, conseguir aumentar em 10% o seu faturamento, faz dos sistemas de recomendação algo que devemos olhar com mais atenção. Vamos compreender o que são esses sistemas.
 
 Sempre que falamos em alguma tecnologia que pode trazer benefícios financeiros para a empresa, que sejam significativos, os investimentos nesta tecnologia se justificam. E aí vemos uma  vantagem  dos  sistemas  de  recomendação  (ou  talvez  mais  uma).  O  custo  de implementação  desses  sistemas  é  relativamente  baixo  e  seus  ganhos  são  consideráveis. Sistemas de recomendação são apenas uma das muitas especialidades em rápida evolução dentro de análise preditiva e trabalho garantido para os Cientistas de Dados.
